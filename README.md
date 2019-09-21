@@ -29,7 +29,7 @@ Crev is scalable, distributed and social. Users publish and circulate results of
 
 Crev allows building a personal web of trust in other people and the code they use and review.
 
-Crev [is a][f] [tool][e] [we][d] [desperately][c] [need][b] [yesterday][a]. It protects against compromised dev accounts, intentional malicious code, typosquating, compromised package registries, or just plain poor quality.
+Crev [is a][f] [tool][e] [we][d] [desperately][c] [need][b] [yesterday][a]. It protects against compromised dev accounts, intentional malicious code, typosquatting, compromised package registries, or just plain poor quality.
 
 [a]: https://www.csoonline.com/article/3214624/security/malicious-code-in-the-node-js-npm-registry-shakes-open-source-trust-model.html
 
@@ -50,7 +50,7 @@ Crev [is a][f] [tool][e] [we][d] [desperately][c] [need][b] [yesterday][a]. It p
 We would like Crev to become a general, language and ecosystem agnostic
 system for establishing trust in Open Source code. We would like to have
 frontends integrated with all the major Open Source package managers and ecosystems,
-and many indepenet and interoperable tools building on top of it.
+and many independent and interoperable tools building on top of it.
 
 ## Overview
 
@@ -84,7 +84,7 @@ QpigffpvOnK7KNdDzQSNRt8bkOFYP_LOLE-vOZ2lu6Je5jvF3t4VZddZDDnPhxaY9zEQurozqTiYAHX8
 -----END CREV PACKAGE REVIEW-----
 ```
 
-*Proofs* are published and exchanged in a similiar way that Open Source code is, for other people to benefit from.
+*Proofs* are published and exchanged in a similar way that Open Source code is, for other people to benefit from.
 
 ## Fundamental beliefs of Crev design:
 
