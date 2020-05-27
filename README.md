@@ -14,6 +14,7 @@
 
 * [cargo-crev: Crev for Rust/cargo](https://github.com/crev-dev/cargo-crev) - ready and working
 * [npm-crev: Crev for Node/NPM](https://www.npmjs.com/package/crev) - baby steps
+* [pip-crev: Crev for Python/PIP](https://github.com/crev-dev/pip-crev) - still early
 * Crev for Julia/Pkg - in plans; ask around on [Crev Matrix channel](https://matrix.to/#/!uBhYhtcoNlyEbzfYAW:matrix.org)
 * other languages/ecosystems - join [Crev Matrix channel](https://matrix.to/#/!uBhYhtcoNlyEbzfYAW:matrix.org), tell us about your interest and find help
 
