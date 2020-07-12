@@ -48,7 +48,7 @@ Crev [is a][f] [tool][e] [we][d] [desperately][c] [need][b] [yesterday][a]. It p
 
 ## Vision
 
-We would like Crev to become a general, language and ecosystem agnostic
+We would like Crev to become a general, language, and ecosystem agnostic
 system for establishing trust in Open Source code. We would like to have
 frontends integrated with all the major Open Source package managers and ecosystems,
 and many independent and interoperable tools building on top of it.
@@ -92,7 +92,7 @@ QpigffpvOnK7KNdDzQSNRt8bkOFYP_LOLE-vOZ2lu6Je5jvF3t4VZddZDDnPhxaY9zEQurozqTiYAHX8
 * Trust is about people and community, not automatic scans,
   arbitrary metrics, process, or bureaucracy. You can't replace a human judgment
   with an algorithm. Tools can only help make such a judgment.
-* Code quality, risk management, and trust requirements are subjective, contextual and personal.
+* Code quality, risk management, and trust requirements are subjective, contextual, and personal.
   Islands of Trust must grow organically.
 * Not many people can review all their dependencies, but if every user
   at least skimmed through a couple of them, and shared that information with
