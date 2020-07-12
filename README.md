@@ -26,7 +26,7 @@ But in a world of NPM/PIP/Cargo/RubyGems - how do you do that? Can you keep up w
 
 Crev is an actual *code review* system as opposed to typically practiced *code-change review* system.
 
-Crev is scalable, distributed and social. Users publish and circulate results of their reviews: potentially warning about problems, malicious code, or just encouraging high quality by peer review.
+Crev is scalable, distributed, and social. Users publish and circulate results of their reviews: potentially warning about problems, malicious code, or just encouraging high quality by peer review.
 
 Crev allows building a personal web of trust in other people and the code they use and review.
 
@@ -55,7 +55,7 @@ and many independent and interoperable tools building on top of it.
 
 ## Overview
 
-At its core Crev defines a simple, human-readable data format to communicate
+At it's core Crev defines a simple, human-readable data format to communicate
 trust in code (results of code review) and people (reputation).
 
 Using tools implementing Crev, you can generate cryptographically signed artifacts (*Proofs*).
@@ -90,9 +90,9 @@ QpigffpvOnK7KNdDzQSNRt8bkOFYP_LOLE-vOZ2lu6Je5jvF3t4VZddZDDnPhxaY9zEQurozqTiYAHX8
 ## Fundamental beliefs of Crev design:
 
 * Trust is about people and community, not automatic scans,
-  arbitrary metrics, process or bureaucracy. You can't replace a human judgment
+  arbitrary metrics, process, or bureaucracy. You can't replace a human judgment
   with an algorithm. Tools can only help make such a judgment.
-* Code quality, risk management and trust requirements are subjective, contextual and personal.
+* Code quality, risk management, and trust requirements are subjective, contextual and personal.
   Islands of Trust must grow organically.
 * Not many people can review all their dependencies, but if every user
   at least skimmed through a couple of them, and shared that information with
