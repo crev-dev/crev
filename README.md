@@ -1,13 +1,3 @@
-<p align="center">
-  <a href="https://matrix.to/#/!uBhYhtcoNlyEbzfYAW:matrix.org">
-    <img src="https://img.shields.io/matrix/crev:matrix.org.svg?server_fqdn=matrix.org&style=flat-square" alt="crev matrix channel">
-  </a>
-  <a href="https://gitter.im/dpc/crev">
-    <img src="https://img.shields.io/gitter/room/dpc/crev.svg?style=flat-square" alt="crev gitter channel">
-  </a>
-  <br>
-</p>
-
 # Crev - Code REView system that we desperately need
 
 ## Implementations
@@ -15,8 +5,7 @@
 * [cargo-crev: Crev for Rust/cargo](https://github.com/crev-dev/cargo-crev) - ready and working
 * [npm-crev: Crev for Node/NPM](https://www.npmjs.com/package/crev) - baby steps
 * [pip-crev: Crev for Python/PIP](https://github.com/crev-dev/pip-crev) - still early
-* Crev for Julia/Pkg - in plans; ask around on [Crev Matrix channel](https://matrix.to/#/#crev:matrix.org)
-* other languages/ecosystems - join [Crev Matrix channel](https://matrix.to/#/#crev:matrix.org), tell us about your interest and find help
+* other languages/ecosystems 
 
 ## Introduction
 
