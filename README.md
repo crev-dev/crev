@@ -37,7 +37,7 @@ Crev [is a][f] [tool][e] [we][d] [desperately][c] [need][b] [yesterday][a]. It p
 
 ## Vision
 
-We would like Crev to become a general, language, and ecosystem agnostic
+We would like Crev to become a general language- and ecosystem-agnostic
 system for establishing trust in Open Source code. We would like to have
 frontends integrated with all the major Open Source package managers and ecosystems,
 and many independent and interoperable tools building on top of it.
